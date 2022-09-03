@@ -1,0 +1,38 @@
+
+
+1. - wttr.in
+
+use : curl wttr.in/location
+
+You can get weather information for the comming days for any location.
+
+
+2. - qrenco.de
+
+use : curl qrenco.de/yourtext
+
+Will turn "yourtext" into a qr-code, there are ways to use big textfiles 
+with this and transfer large amounts of text to your phone.
+
+
+3. - rate.sx
+
+use curl rate.sx
+
+You can see a table of the top cryptocoins by using just that formating.
+If you want to se more speceific information about bitcoin for example-
+
+use curl rate.sx/btc@2M
+
+You can specify the timeframe after the @ with 2w, 2M, 2Y.
+
+
+4. - cheat.sh
+
+use curl cheat.sh
+
+This will take you too the greeting screen. You can use this as a database for programming 
+information. Lets say you want to know more about classes in python -
+
+use curl cheat.sh/python/class
+

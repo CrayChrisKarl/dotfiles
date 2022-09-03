@@ -1,0 +1,68 @@
+""""""""""""""""""""""""""""""""KEYBINDS""""""""""""""""""""""""""""""""""
+
+"""--- BASIC KEYBINDS ---"""
+
+"""   Vanilla Keybinds
+
+"Movement
+
+"   Ctrl - y                "Scroll up
+"   Ctrl - n                "Scroll down
+
+"   gg                      "Jump to start of document
+"   G                       "Jump to end of document
+
+"   H                       "Jump to top of screen
+"   M                       "Jump to middle of screen
+"   L                       "Jump to lower part of the screen
+
+"   AltR - $                "Jump to end  of line
+"   0                       "Jump to start of line
+
+"   AltR - {                "Jump up to next blank line
+"   AltR - }                "Jumo down to next blank line
+
+"Tabs
+
+"   gt                      "Go to next tab
+"   gT                      "Go to previous tab
+
+"Searh
+
+"   Shift - *               "Jump to next use of marked word - case sensetive
+
+"   Custom Keybinds
+
+"   F                       "Start a file-search (:find)
+
+"""--- PLUGIN KEYBINDS ---"""
+
+"   Surround
+
+-Vanilla Keybinds
+
+"   ysiw+'/"/(/[/{          "Surround word with chosen symbols
+"   ds                      "Drop/Delete surroundings
+"   cs<from><to>            "Change one symbol to another
+
+-Custom Keybinds
+
+""""""""""""""""""""""""""""""""COMMANDS"""""""""""""""""""""""""""""""""
+
+"""--- BASIC COMMANDS ---"""
+
+"""   Vanilla Commands
+
+"   :tabedit <filename>     "Open file in new tab
+
+"""     Custom Commands
+
+"   :Reload                 "Reloads .vimrc so changes take effect
+
+"""--- PLUGIN COMMANDS ---"""
+
+"   Example Plugin Name
+
+-Standard Commands
+
+-Custom Commands
